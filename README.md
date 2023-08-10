@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MDd Asad
+- 👋 Hi, I’m Md Asad
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning B.tech in Computer science
 
