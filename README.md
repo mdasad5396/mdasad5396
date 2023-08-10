@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdasad5396
+- 👋 Hi, I’m MDd Asad
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning B.tech in Computer science
 
