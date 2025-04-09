@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Md Asad
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning B.tech in Computer science
 
 - 📫 How to reach me mdasad5396@gmail.com
 
