@@ -3,7 +3,10 @@
   <h1>👋 Hi there, I'm <span style="color:#0a66c2">Md Asad</span></h1>
   <h3>💻 Java | PHP | HTML/CSS | Spring Boot | Spring MVC | Microservice | Docker | AWS | DSA </h3>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+woked+whith+backend;I+write+code+that+clean+,+functional+and+impactful;Let's+connect+and+collaborate!"/>
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=550&lines=Hi,+I'm+Mohamad+Asad;Java+%7C+PHP+%7C+Spring+Boot+Developer;I+love+building+robust+backend+systems;I+solve+real-world+problems+with+code;Let's+connect+and+collaborate!"/>
+</p>
+
 
 </div>
 
