@@ -66,9 +66,9 @@ I'm also familiar with using **GitHub** to manage and share my code.
 
 | Project | Description |
 |--------|-------------|
-| [CRIME MANAGEMENT SYSTEM](https://github.com/ershamshad12/Simon-says-game) | Developed a web-based system for crime data management including criminal profiles, charges, and officer access |
-| [LUXURY SHOE STORE](https://github.com/ershamshad12/Dice_Game) | Built an e-commerce site for shoe retail with user registration, product browsing, and shopping cart features |
-| [PORTFOLIO](https://github.com/ershamshad12/QSpider-React) | Created a personal website showcasing skills, projects, and contact details. |
+| [CRIME MANAGEMENT SYSTEM](https://github.com/mdasad5396/CRIME-MANAGEMENT-SYSTEM) | Developed a web-based system for crime data management including criminal profiles, charges, and officer access |
+| [LUXURY SHOE STORE](https://github.com/mdasad5396/LUXURY-SHOE-STORE) | Built an e-commerce site for shoe retail with user registration, product browsing, and shopping cart features |
+| [PORTFOLIO](https://github.com/mdasad5396/Portfolio) | Created a personal website showcasing skills, projects, and contact details. |
 
 ---
 
