@@ -4,7 +4,7 @@
   <h3>💻 Java | PHP | HTML/CSS | Spring Boot | Spring MVC | Microservice | Docker | AWS | DSA </h3>
   <br/>
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=550&lines=Hi,+I'm+Mohamad+Asad;Java+%7C+PHP+%7C+Spring+Boot+Developer;I+love+building+robust+backend+systems;I+solve+real-world+problems+with+code;Let's+connect+and+collaborate!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=550&lines=Hi,+I'm+Md+Asad;Java+%7C+PHP+%7C+Spring+Boot+Developer;I+love+building+robust+backend+systems;I+solve+real-world+problems+with+code;Let's+connect+and+collaborate!"/>
 </p>
 
 
