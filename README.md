@@ -4,7 +4,7 @@
   <h3>💻 Java | PHP | HTML/CSS | Javascript </h3>
   <br/>
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=550&lines=Hi,+I'm+Md+Asad;Java+%7C+PHP+%7C+Developer;I+love+building+robust+backend+systems;I+solve+real-world+problems+with+code;Let's+connect+and+collaborate!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=550&lines=Hi,+I'm+Md+Asad;Java+%7C+PHP+Developer;I+love+building+robust+backend+systems;I+solve+real-world+problems+with+code;Let's+connect+and+collaborate!"/>
 </p>
 
 
@@ -26,8 +26,8 @@ I'm also familiar with using **GitHub** to manage and share my code.
 
 ### 🛠️ Tech Stack
 
-- 💻 **Languages**: Java, PHP, HTML, CSS, JavaScript  
-- 🌐 **Web**: Spring Boot, Spring MVC, Servlets, JSP
+- 💻 **Languages**: Java, PHP,  JavaScript  
+- 🌐 **Web**: HTML, CSS, Javascript
 - 🐬 **Database**: MySQL, JDBC  
 - 🚀 **Tools**: Git, GitHub
 
