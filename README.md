@@ -1,10 +1,10 @@
 
 <div align="center">
   <h1>👋 Hi there, I'm <span style="color:#0a66c2">Md Asad</span></h1>
-  <h3>💻 Java | PHP | HTML/CSS | Spring Boot | Spring MVC | Microservice | Docker | AWS | DSA </h3>
+  <h3>💻 Java | PHP | HTML/CSS | Javascript </h3>
   <br/>
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=550&lines=Hi,+I'm+Md+Asad;Java+%7C+PHP+%7C+Spring+Boot+Developer;I+love+building+robust+backend+systems;I+solve+real-world+problems+with+code;Let's+connect+and+collaborate!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=550&lines=Hi,+I'm+Md+Asad;Java+%7C+PHP+%7C+Developer;I+love+building+robust+backend+systems;I+solve+real-world+problems+with+code;Let's+connect+and+collaborate!"/>
 </p>
 
 
@@ -13,9 +13,9 @@
 ---
 ## 👋 About Me
 
-Hi, I'm Md Asad — a passionate and dedicated Computer Science graduate from Darbhanga, currently based in New Delhi. I specialize in backend development with a strong foundation in **Core Java**, **Spring Framework (Spring Boot & Spring MVC)**, and **PHP**. I enjoy building robust and scalable web applications, and I’m constantly exploring modern software architecture including **Microservices**, **Cloud Computing**, and **DevOps** tools like **Docker** and **AWS**.
+Hi, I'm Md Asad — a passionate and dedicated Computer Science graduate from Darbhanga, currently based in New Delhi. I specialize in backend development with a strong foundation in **Core Java**, and **PHP**. I enjoy building robust and scalable web applications, and I’m constantly exploring modern software architecture including **Cloud Computing**, and **DevOps** tools like **Docker** and **AWS**.
 
-I also actively work on sharpening my **Data Structures and Algorithms (DSA)** skills through problem-solving in Java. Whether it’s connecting databases with **JDBC**, creating APIs with **Spring Boot**, or deploying applications on the cloud — I strive to write clean, maintainable, and efficient code.
+I also actively work on sharpening my skills through problem-solving in Java. Whether it’s connecting databases with **JDBC**, I strive to write clean, maintainable, and efficient code.
 
 I’m enthusiastic about continuous learning and always eager to contribute to challenging and meaningful projects.
 
@@ -27,11 +27,9 @@ I'm also familiar with using **GitHub** to manage and share my code.
 ### 🛠️ Tech Stack
 
 - 💻 **Languages**: Java, PHP, HTML, CSS, JavaScript  
-- 🌐 **Web**: Spring Boot, Spring MVC, Servlets, JSP  
-- 🧠 **DSA**: Arrays, Linked Lists, Trees, Graphs, Recursion, Dynamic Programming  
+- 🌐 **Web**: Spring Boot, Spring MVC, Servlets, JSP
 - 🐬 **Database**: MySQL, JDBC  
-- 🚀 **Tools & DevOps**: Git, GitHub, Docker, AWS (EC2, S3)  
-- 📦 **Architecture**: REST APIs, Microservices  
+- 🚀 **Tools**: Git, GitHub
 
 
 
@@ -47,6 +45,7 @@ I'm also familiar with using **GitHub** to manage and share my code.
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"/>
+  <!---
   <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_MVC-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microservices-%23007ACC.svg?style=flat-square&logo=microsoft&logoColor=white"/>
@@ -55,6 +54,7 @@ I'm also familiar with using **GitHub** to manage and share my code.
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-%23FFA500.svg?style=flat-square&logo=algorithm&logoColor=white"/>
+  --->
   <img src="https://img.shields.io/badge/SQL-%23007396.svg?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
