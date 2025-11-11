@@ -77,7 +77,7 @@ I'm also familiar with using **GitHub** to manage and share my code.
 - 📧 Email: [mdasad5396@gmail.com](mailto:mdasad5396@gmail.com)
 - 💼 LinkedIn: [md-asad-55649a217/](https://www.linkedin.com/in/md-asad-55649a217/)
 - 🐙 GitHub: [mdasad5396](https://github.com/mdasad5396)
-- 📲 Instagram: https://www.instagram.com/_._.asad_._?igsh=ejQ3ZTZkeHNhZWdt
+- 📲 Instagram: [@_._.asad_._](https://www.instagram.com/_._.asad_._/)
 
 
 
