@@ -89,7 +89,7 @@ I'm passionate about continuous learning and always open to collaborating on imp
 
 | Project | Description |
 |--------|-------------|
-| **[Crime Management System](https://github.com/mdasad5396/CRIME-MANAGEMENT-SYSTEM)** | A Java/Spring Boot-based system for managing crime records, criminal profiles, and admin operations. |
+| **[Crime Management System](https://github.com/mdasad5396/CRIME-MANAGEMENT-SYSTEM)** | A PHP-based system for managing crime records, criminal profiles, and admin operations. |
 | **[Luxury Shoe Store](https://github.com/mdasad5396/LUXURY-SHOE-STORE)** | A complete e-commerce website with product browsing, user authentication, and cart functionality. |
 | **[Portfolio Website](https://github.com/mdasad5396/Portfolio)** | A clean and responsive personal portfolio to showcase skills, experience, and projects. |
 
