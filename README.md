@@ -57,7 +57,7 @@ Architected a scalable backend handling:
 - RESTful API Design  
 - Database Query Optimization  
 
-🔗 https://github.com/mdasad5396/LUXURY-SHOE-STORE  
+🔗 https://github.com/mdasad5396/sb-ecommerce 
 
 ---
 
@@ -68,7 +68,7 @@ Designed secure backend workflows featuring:
 - Account & User Management  
 - Secure Authentication Mechanisms  
 
-🔗 (Add banking repo link)
+🔗 https://github.com/mdasad5396/Banking-portal
 
 ---
 
@@ -118,7 +118,7 @@ Engineered administrative backend for:
   <img src="https://raw.githubusercontent.com/mdasad5396/mdasad5396/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> Enable via GitHub Actions workflow for automatic generation.
+
 
 ---
 
