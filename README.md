@@ -83,26 +83,7 @@ Engineered administrative backend for:
 
 ---
 
-## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdasad5396&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📊 Engineering Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mdasad5396&show_icons=true&theme=algolia&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=mdasad5396&theme=algolia&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdasad5396&layout=compact&theme=algolia&hide_border=true" />
-</p>
-
----
 
 ## 📈 Contribution Activity
 
@@ -110,13 +91,8 @@ Engineered administrative backend for:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdasad5396&theme=react-dark" />
 </p>
 
----
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdasad5396/mdasad5396/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 
 
