@@ -1,112 +1,151 @@
 <div align="center">
-  <h1>👋 Hi there, I'm <span style="color:#0a66c2">Md Asad</span></h1>
-  <h3>💻 Full-Stack Developer | Java | Spring Boot | React </h3>
 
-  <br/>
+<!-- Premium Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=230&section=header&text=Md%20Asad&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36"/>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=620&lines=Hi,+I'm+Md+Asad;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;I+build+scalable+web+applications;I+love+crafting+clean+%26+efficient+code;Let's+connect+and+collaborate!"/>
-  </p>
+## 🏗️ Backend Engineer | Java • Spring Boot • Distributed Systems
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Designing+Scalable+Backend+Systems;Building+Secure+RESTful+APIs;Clean+Architecture+Advocate;Database+Performance+Optimizer;System+Design+Enthusiast"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20To-Backend%20Opportunities-00C853?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=mdasad5396&style=for-the-badge&color=0e75b6"/>
+
 </div>
 
 ---
 
-## 👋 About Me
+## 🧠 Engineering Philosophy
 
-I'm **Md Asad**, a dedicated and detail-oriented **Full-Stack Developer** specializing in **Java, Spring Boot, and React**.  
-I love building **scalable, efficient, and secure** web applications while focusing on clean architecture and best development practices.
+I design backend systems that are:
 
-I enjoy working across both backend and frontend, designing APIs, integrating databases, and developing responsive UI components.
+- **Scalable**
+- **Secure**
+- **Maintainable**
+- **Performance-driven**
 
-I’m continuously expanding my knowledge in:
-- ☁️ Cloud Technologies (AWS)  
-- 🐳 DevOps Tools (Docker)  
-- ⚙️ Microservices Architecture  
-- 🔐 Application Security & API Optimization  
+My focus is not just writing code —  
+but architecting systems that handle real-world scale and complexity.
 
-I'm passionate about continuous learning and always open to collaborating on impactful projects.
+Currently deep-diving into:
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 **Languages**
-- Java, JavaScript, PHP
-
-### 🌐 **Frontend**
-- React  
-- HTML5, CSS3, JavaScript (ES6+)
-
-### 🚀 **Backend & Frameworks**
-- Spring Boot  
-- Spring MVC  
-- REST APIs  
-- Microservices  
-- JDBC  
-- Servlets  
-
-### 🗄️ **Databases**
-- MySQL  
-- PostgreSQL  
-
-### ☁️ **Cloud & DevOps**
-- Docker  
-- AWS (Fundamentals)
-
-### 🔧 **Tools**
-- Git, GitHub  
-- Postman  
-- IntelliJ IDEA, VS Code  
+- System Design & Distributed Architectures  
+- Microservices & Containerized Deployments  
+- Cloud Infrastructure (AWS)  
+- Performance Engineering & Security  
 
 ---
 
-## 🧠 Skills & Technologies
+## ⚙️ Technology Stack
 
-<p>
+<div align="center">
 
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_MVC-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/JDBC-%23007396.svg?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=java,spring,js,react,php,mysql,postgres,docker,aws,git,github,postman" />
 
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"/>
+</div>
 
-<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
+---
 
-<img src="https://img.shields.io/badge/MySQL-%23007396.svg?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
+## 🏗️ Production-Grade Projects
 
+### 🛒 E-Commerce Backend System
+Architected a scalable backend handling:
+- Authentication & Role Management  
+- Product & Inventory Control  
+- Order Lifecycle Processing  
+- RESTful API Design  
+- Database Query Optimization  
+
+🔗 https://github.com/mdasad5396/LUXURY-SHOE-STORE  
+
+---
+
+### 🏦 Banking Portal Backend
+Designed secure backend workflows featuring:
+- Role-Based Access Control (RBAC)  
+- Transaction Processing Engine  
+- Account & User Management  
+- Secure Authentication Mechanisms  
+
+🔗 (Add banking repo link)
+
+---
+
+### 🧾 Crime Management Backend
+Engineered administrative backend for:
+- Criminal Record Lifecycle Management  
+- Case Tracking Workflows  
+- Secure Data Operations  
+- Structured Database Design  
+
+🔗 https://github.com/mdasad5396/CRIME-MANAGEMENT-SYSTEM  
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdasad5396&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 📊 Engineering Analytics
 
-| Project | Description |
-|--------|-------------|
-| **[Crime Management System](https://github.com/mdasad5396/CRIME-MANAGEMENT-SYSTEM)** | A PHP-based system for managing crime records, criminal profiles, and admin operations. |
-| **[Luxury Shoe Store](https://github.com/mdasad5396/LUXURY-SHOE-STORE)** | A complete e-commerce website with product browsing, user authentication, and cart functionality. |
-| **[Portfolio Website](https://github.com/mdasad5396/Portfolio)** | A clean and responsive personal portfolio to showcase skills, experience, and projects. |
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mdasad5396&show_icons=true&theme=algolia&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=mdasad5396&theme=algolia&hide_border=true" />
+</p>
 
----
-
-## 📬 Connect With Me
-
-- 📧 **Email:** [mdasad5396@gmail.com](mailto:mdasad5396@gmail.com)  
-- 💼 **LinkedIn:** [md-asad-55649a217](https://www.linkedin.com/in/md-asad-55649a217/)  
-- 🐙 **GitHub:** [mdasad5396](https://github.com/mdasad5396)  
-- 📸 **Instagram:** [@_._.asad_._](https://www.instagram.com/_._.asad_._/)  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdasad5396&layout=compact&theme=algolia&hide_border=true" />
+</p>
 
 ---
 
-<br/>
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdasad5396&theme=react-dark" />
+</p>
 
 ---
-<!---
-This repository is special because the `README.md` appears on your GitHub profile.
---->
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdasad5396/mdasad5396/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> Enable via GitHub Actions workflow for automatic generation.
+
+---
+
+## 💬 Ask Me About
+
+- Backend Architecture  
+- RESTful API Design  
+- Database Optimization  
+- Authentication & Security  
+- System Design  
+- Performance Tuning  
+
+---
+
+## 🤝 Let's Connect
+
+📧 mdasad5396@gmail.com  
+💼 https://www.linkedin.com/in/md-asad-55649a217  
+🐙 https://github.com/mdasad5396  
+
+---
+
+<div align="center">
+
+### ⚡ Fun Fact
+I enjoy optimizing backend performance and refining database queries more than designing UI.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=120&section=footer"/>
