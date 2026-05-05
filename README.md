@@ -61,7 +61,7 @@ Architected a scalable backend handling:
 
 ---
 
-### 🏦 Banking Portal Backend
+### 🏦 Banking Portal
 Designed secure backend workflows featuring:
 - Role-Based Access Control (RBAC)  
 - Transaction Processing Engine  
@@ -72,7 +72,7 @@ Designed secure backend workflows featuring:
 
 ---
 
-### 🧾 Crime Management Backend
+### 🧾 Crime Management
 Engineered administrative backend for:
 - Criminal Record Lifecycle Management  
 - Case Tracking Workflows  
